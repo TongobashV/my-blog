@@ -1,0 +1,6 @@
+db.sqlite3
+*.pyc
+.idea/*
+/media
+/cache
+dom_u_morya/local_settings.py
