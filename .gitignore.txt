@@ -1,8 +1,0 @@
-db.sqlite3
-*.pyc
-.idea/*
-/media
-/cache
-blog/local_settings.py
-__pycache__/
-*.pyc
