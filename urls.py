@@ -10,3 +10,5 @@ urlpatterns = [
          views.post_detail,
          name='post_detail'),
 ]
+
+
